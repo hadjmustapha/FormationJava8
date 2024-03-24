@@ -3,13 +3,15 @@ Intro
 -----------------------Chapite 1 Exception
 Trois Types d'exception :
  1.Checked   Exception : exception qu'on peut gérer
-
  2.Unchecked Exception : Runtime exception , toute exception du à une erreur de programmation !!
-
  3.Error     Exception :
 
 Throwable : classe mère de toute type d'exception
+
+Exercice du chapitre Terminé !
+
 -----------------------Chapitre 2 Généricité
+
 
 -----------------------Chapitre 3 Collections
 
